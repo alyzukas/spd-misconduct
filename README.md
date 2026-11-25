@@ -1,38 +1,29 @@
-# SPD-misconduct
-Analyzing Seattle SPD misconduct events by location and severity in Python and ArcGIS
+# SPD Misconduct
 ---
 
 ## Project Overview
 
-This project uses data visualization to tell one story about crime from three angles: Seattle, comparable U.S. cities, and the world. We start with neighborhood-level crime patterns in Seattle, compare Seattle to U.S. cities that look like it demographically and economically, and then place both against global trends.
+This project uses data visualization and ... to tell one story about ... 
 
-The Seattle data alone could show what is happening in Seattle. Adding the comparison cities and the global data shows whether Seattle's patterns are unusual or part of a broader trend.
-
-All visualizations, code, and write-ups are published on the project's GitHub Pages site.
 
 - **Objective**: 
-  - Build a clear, data-driven narrative about crime trends from 2010–2024 at the city, national, and global levels
-  - Apply principles of visual design and perception (encoding choice, color, annotation, layout) to make each chart readable and honest
-  - Choose the 10 most compelling visualizations and justify every design decision in a formal report
-  - Present the story in an 8–10 minute recorded team presentation
+  - ( insert )
   
-- **Domain**: Data Visualization / Public Safety / Urban Analytics
+- **Domain**: Data Visualization / Public Safety / Urban Analytics / Social Justice
   
 - **Key Techniques:**
   - Exploratory data analysis (EDA) in Python
   - Data cleaning, filtering, and merging across multiple sources
-  - Peer-city selection using U.S. Census ACS demographic and economic characteristics
   - Time-series, geographic, and comparative visualizations
   - Design justification grounded in perception and visualization theory
-
-
+  - ( insert ARC GIS techniques used )
 
 ---
 
 ## Project Structure
 
 ```
-seattle-crime-analysis/
+spd-misconduct/
 │
 ├── data/
 │   ├── 
